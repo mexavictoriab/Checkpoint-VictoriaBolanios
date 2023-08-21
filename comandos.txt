@@ -1,0 +1,31 @@
+$ cd "/c/Digital-House/Bimestre-1/Intro-Informatica/Clase-8/Checkpoint-VictoriaBolanios"
+$ mkdir Checkpoint-VictoriaBolanios
+$ cd "Checkpoint-VictoriaBolanios"
+$ git init
+$ git checkout -b main
+$ touch main.js
+$ touch index.html
+$ git status
+$ git add .
+$ git remote add origin https://github.com/mexavictoriab/Checkpoint-VictoriaBolanios.git
+$ git push origin main
+$ git branch feature
+$ git checkout feature
+$ mkdir hardware
+$ mkdir software
+$ mkdir seguridadInformatica
+$ cd hardware
+$ touch resumen.txt
+$ cd software
+$ cd ..
+$ cd software
+$ touch resument.txt
+$ git add .
+$ git status
+$ git commit -m "Commit 02 de VictoriaBolanios"
+$ git push origin feature
+$ git checkout main
+$ git mv main.js resumenHardware.txt
+$ git mv index.html resumenSoftware.txt
+$ code
+$ touch comandos.txt
