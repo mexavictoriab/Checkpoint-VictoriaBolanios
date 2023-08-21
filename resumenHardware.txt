@@ -1,3 +1,3 @@
-1.Mouse
-2.Teclado
-3.Camara
+1.Memoria Ram
+2.Memoria Rom
+3.ssd
